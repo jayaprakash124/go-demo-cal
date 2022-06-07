@@ -20,6 +20,8 @@ func main() {
 
 	fmt.Println("Golang Demo Calc")
 	fmt.Println("======================")
+	fmt.Println("======================")
+
 
 	fmt.Println("Enter the first digit")
 	if _, err := fmt.Scan(&f_op); err != nil {
